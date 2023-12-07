@@ -7,7 +7,6 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
-
 # COMMON DIRECTORIES
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
@@ -16,10 +15,8 @@ alias m="cd ~/Documents/mappedin"
 alias p="cd ~/Documents/projects"
 alias home="cd ~"
 
-
 # WORK DIRECTORIES
-alias tri="cd /Users/charlie/Documents/mappedin/tricorder"
-
+alias work="cd /Users/emilemborgthiel/repos/work"
 
 # GIT
 alias g="git"
